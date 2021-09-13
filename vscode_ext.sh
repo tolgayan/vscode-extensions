@@ -7,4 +7,4 @@ code --install-extension GrapeCity.gc-excelviewer
 code --install-extension waderyan.gitblame
 code --install-extension njpwerner.autodocstring
 code --install-extension thomascsd.vscode-readme-pattern
-code --ınstall-extension ritwickdey.liveserver
+code --install-extension ritwickdey.liveserver
